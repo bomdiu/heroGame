@@ -1,0 +1,1218 @@
+fileFormatVersion: 2
+guid: 33d547b6771af44bd8196ba1f5266c2a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_0"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 736
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afc2c272ba5e4671bec20b6fc1dc2d8
+      internalID: -667422384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_1"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 736
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966edde06a4d647559b049b85120ee7b
+      internalID: -1305921585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_2"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 736
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e77b11b08d554ae6880fb6a6615ae64
+      internalID: -1897013304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_3"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 736
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9229829ca876b4815891f28d52520178
+      internalID: 729824955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_4"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 736
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d15530ff65f44eca77b292ba383210
+      internalID: -1826583697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_5"
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 736
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719811a99da0f4343bfa666e3f2eeb09
+      internalID: 88247894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_6"
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 736
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e3fd8e4c525423ab7c981f3731f0a6
+      internalID: -1032018664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_7"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 629
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86014094ed1043d9bff3ce29db24b09
+      internalID: 1785722868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_8"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 629
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478fe4c4e35d949d09c67588202ebba3
+      internalID: 169578392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_9"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 629
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca02f28955764b56bab58cd900f6496
+      internalID: -1448491902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_10"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 629
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85d09ca49ff74792be74471f2aa74e0
+      internalID: 400584381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_11"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 629
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d52610cbd283468ba3080a1338a692f
+      internalID: -427957909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_12"
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 629
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9c98ee19061447cbdaa8054c4f121a
+      internalID: 886664091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_13"
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 629
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be9c0ab171074749ba58bf0151272f1
+      internalID: 381143284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_14"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 522
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4821ba3a0dad8411299c2998f84cc0e4
+      internalID: -1189162687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_15"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 522
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62d8476ded0e4ce2886c6e5d09eb4cd
+      internalID: -899362455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_16"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 522
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9881a8c29606d4464a8d2e3fbdf8c2ba
+      internalID: -79386893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_17"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 522
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1488e6c0858984b68aea134efe05d03e
+      internalID: 288263946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_18"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 522
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3556325c8146542ae946a4bcbb313cd7
+      internalID: -1129349150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_19"
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 522
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970e5ca59bcff4d5f987822b08aac7d6
+      internalID: 1069241431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_20"
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 522
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96fdbfa754de46758639294bc771cc9
+      internalID: 1072131315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_21"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 415
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e995e583e784a41d29e6cba8511966d4
+      internalID: -1065555689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_22"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 415
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ebdd27b72834e41bfc9ade3575abfb
+      internalID: -1518058854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_23"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 415
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2915dff469442589a0279ac9f73913
+      internalID: 1207815022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_24"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 415
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1326ad4c4284b108d0a5718e868f01
+      internalID: -1624584385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_25"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 415
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd69849b65b0a4453989a3542006ab26
+      internalID: 1087248364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_26"
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 415
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c3e1d2fd5bd4378a3635683ffa7447
+      internalID: -592633446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_27"
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 415
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aea0551d665b4c3cb2c4319f31b604f
+      internalID: -1882030892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_28"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 308
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5ee04acbdbd40e6933b3e9ddadbdfa
+      internalID: -1848303333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_29"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 308
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4482c9eb4fb4468962d8c814c69048
+      internalID: -973254977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_30"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 308
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87fe473c82ff41a2bd5ee2df6cc7659
+      internalID: 2064603646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_31"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 308
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b336b5842609b45439bfd0c43cb238a1
+      internalID: 1838540449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_32"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 308
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada60c49e854f4b12b201fe05146e787
+      internalID: -2070009389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_33"
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 308
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207fab78e37134adca33742b3703a87a
+      internalID: -1907978901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_34"
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 308
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68289a1d72c3e4b9cb3cf1ffe3b8da1d
+      internalID: 15795563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_35"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 201
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee80891011eaa47c5acaf9b98ab087eb
+      internalID: -577428530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_36"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 201
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbba49efa7aa4b6580777b58a9f3aa9
+      internalID: 159010273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_37"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 201
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1373c032123884d0dab9e69e1d5ae143
+      internalID: -1877736228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_38"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 201
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba20f5cf3fbd147acb16e28159c53f02
+      internalID: -89806907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_39"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 201
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07585d1bd99c46c2b7585b933ab0847
+      internalID: -273321813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_40"
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 201
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dc40c7a41e34cc4be984b6e934fe28
+      internalID: -1025427015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_41"
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 201
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e07317c22e54ac8956ed5abf1f9d5c
+      internalID: -159661577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_42"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 94
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e606dc347633a423a90f4f758d954ff2
+      internalID: 1434683299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_43"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 94
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355277f50740942f9848a1cda69ef9ad
+      internalID: 124834176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_44"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 94
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847df880e569649e4a99fd72b4f9c5ed
+      internalID: -2098098855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_45"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 94
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73671543aac174479a314f98bbd451c8
+      internalID: -660633393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_46"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 94
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da36ae51faaee4c838c8963f35a5d115
+      internalID: 540662938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_47"
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 94
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43f192c5441a42f09e87e7e4ea146cb
+      internalID: -1954810837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jungle tileset DA\u0302Y LEO_48"
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 94
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9706370229db54f0e9897df52c4e3404
+      internalID: -219411053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "jungle tileset DA\u0302Y LEO_0": -667422384
+      "jungle tileset DA\u0302Y LEO_1": -1305921585
+      "jungle tileset DA\u0302Y LEO_10": 400584381
+      "jungle tileset DA\u0302Y LEO_11": -427957909
+      "jungle tileset DA\u0302Y LEO_12": 886664091
+      "jungle tileset DA\u0302Y LEO_13": 381143284
+      "jungle tileset DA\u0302Y LEO_14": -1189162687
+      "jungle tileset DA\u0302Y LEO_15": -899362455
+      "jungle tileset DA\u0302Y LEO_16": -79386893
+      "jungle tileset DA\u0302Y LEO_17": 288263946
+      "jungle tileset DA\u0302Y LEO_18": -1129349150
+      "jungle tileset DA\u0302Y LEO_19": 1069241431
+      "jungle tileset DA\u0302Y LEO_2": -1897013304
+      "jungle tileset DA\u0302Y LEO_20": 1072131315
+      "jungle tileset DA\u0302Y LEO_21": -1065555689
+      "jungle tileset DA\u0302Y LEO_22": -1518058854
+      "jungle tileset DA\u0302Y LEO_23": 1207815022
+      "jungle tileset DA\u0302Y LEO_24": -1624584385
+      "jungle tileset DA\u0302Y LEO_25": 1087248364
+      "jungle tileset DA\u0302Y LEO_26": -592633446
+      "jungle tileset DA\u0302Y LEO_27": -1882030892
+      "jungle tileset DA\u0302Y LEO_28": -1848303333
+      "jungle tileset DA\u0302Y LEO_29": -973254977
+      "jungle tileset DA\u0302Y LEO_3": 729824955
+      "jungle tileset DA\u0302Y LEO_30": 2064603646
+      "jungle tileset DA\u0302Y LEO_31": 1838540449
+      "jungle tileset DA\u0302Y LEO_32": -2070009389
+      "jungle tileset DA\u0302Y LEO_33": -1907978901
+      "jungle tileset DA\u0302Y LEO_34": 15795563
+      "jungle tileset DA\u0302Y LEO_35": -577428530
+      "jungle tileset DA\u0302Y LEO_36": 159010273
+      "jungle tileset DA\u0302Y LEO_37": -1877736228
+      "jungle tileset DA\u0302Y LEO_38": -89806907
+      "jungle tileset DA\u0302Y LEO_39": -273321813
+      "jungle tileset DA\u0302Y LEO_4": -1826583697
+      "jungle tileset DA\u0302Y LEO_40": -1025427015
+      "jungle tileset DA\u0302Y LEO_41": -159661577
+      "jungle tileset DA\u0302Y LEO_42": 1434683299
+      "jungle tileset DA\u0302Y LEO_43": 124834176
+      "jungle tileset DA\u0302Y LEO_44": -2098098855
+      "jungle tileset DA\u0302Y LEO_45": -660633393
+      "jungle tileset DA\u0302Y LEO_46": 540662938
+      "jungle tileset DA\u0302Y LEO_47": -1954810837
+      "jungle tileset DA\u0302Y LEO_48": -219411053
+      "jungle tileset DA\u0302Y LEO_5": 88247894
+      "jungle tileset DA\u0302Y LEO_6": -1032018664
+      "jungle tileset DA\u0302Y LEO_7": 1785722868
+      "jungle tileset DA\u0302Y LEO_8": 169578392
+      "jungle tileset DA\u0302Y LEO_9": -1448491902
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
